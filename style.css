@@ -51,10 +51,10 @@ body{
     border:0;
 }
 .but1:hover{
-    border:1px solid rgb(0, 153, 255);
+    border:1px solid #2289E5;
     transition: background-color 2s ease,border 2s ease,box-shadow 2s ease;
-    box-shadow:5px 5px 5px 5px  rgb(0, 153, 255);
-    background-color: rgb(0, 153, 255);
+    box-shadow:5px 5px 5px 5px  #2289E5;
+    background-color: #2289E5;
 }
 .but2{
     width:170px;
@@ -79,10 +79,10 @@ body{
     border:0;
 }
 .but3:hover{
-    border:1px solid rgb(229, 9, 20);
+    border:1px solid #FF000B;
     transition: background-color 2s ease,border 2s ease,box-shadow 2s ease;
-    box-shadow:5px 5px 5px 5px rgb(229, 9, 20);
-    background-color: rgb(229, 9, 20);
+    box-shadow:5px 5px 5px 5px #FF000B;
+    background-color: #FF000B;
 }
 .h1{
     position:absolute;
